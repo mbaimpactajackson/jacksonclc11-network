@@ -27,3 +27,4 @@ variable "private_subnet_1a_range" {
 variable "private_subnet_1c_range" {
   type    = string
   default = "10.0.200.0/24"
+  }
